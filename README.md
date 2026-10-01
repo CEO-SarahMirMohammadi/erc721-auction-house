@@ -144,6 +144,6 @@ The Sepolia network configuration is enabled only when both `SEPOLIA_RPC_URL` an
 - Add royalty support and additional ERC-721 compatibility tests.
 - Expand fuzzing, invariant testing, and testnet deployment automation.
 
-## Resume-Ready Summary
+## Summary
 
 Built a Solidity 0.8.24 ERC-721 English auction marketplace using Hardhat, JavaScript, and OpenZeppelin. Implemented NFT escrow, 5% bid increments, outbid refunds and proceeds through pull payments, 2.5% treasury fees, expiry settlement, seller cancellation rules, and reentrancy protections, with automated tests for core and invalid flows.
